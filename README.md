@@ -1,1 +1,1 @@
-# Projeto-Java- Projeto para criar uma agenda telefônica em Java - Ainda incompleto.
+# Projeto-Java- Projeto para criar uma agenda telefônica em Java.
